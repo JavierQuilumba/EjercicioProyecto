@@ -1,0 +1,8 @@
+F:\VisualStudio\Ejercicios\EjercicioProyecto\bin\Debug\EjercicioProyecto.exe.config
+F:\VisualStudio\Ejercicios\EjercicioProyecto\bin\Debug\EjercicioProyecto.exe
+F:\VisualStudio\Ejercicios\EjercicioProyecto\bin\Debug\EjercicioProyecto.pdb
+F:\VisualStudio\Ejercicios\EjercicioProyecto\obj\Debug\EjercicioProyecto.csproj.AssemblyReference.cache
+F:\VisualStudio\Ejercicios\EjercicioProyecto\obj\Debug\EjercicioProyecto.csproj.SuggestedBindingRedirects.cache
+F:\VisualStudio\Ejercicios\EjercicioProyecto\obj\Debug\EjercicioProyecto.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Ejercicios\EjercicioProyecto\obj\Debug\EjercicioProyecto.exe
+F:\VisualStudio\Ejercicios\EjercicioProyecto\obj\Debug\EjercicioProyecto.pdb
